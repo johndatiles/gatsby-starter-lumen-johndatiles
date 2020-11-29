@@ -1,31 +1,21 @@
 ---
-title: "Contact me"
+title: "🌱 Me & Now"
 template: "page"
 socialImage: "/media/image-4.jpg"
 ---
+### A Bit About Me
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+I was raised in the Bay Area and worked a while for Caltrans. I then met, married, and followed a Maui girl to Hawaii. 
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+I currently work as a Project Engineer for the Department of Land and Natural Resources [(DLNR)](https://dlnr.hawaii.gov/), managing design projects for construction in Hawaii.
+### What I'm Doing Now
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+Learning to code with [Gatsby.js](https://www.gatsbyjs.com/docs/gatsby-core-philosophy/) to rebuild this website and restart my blog. This is a work in progress!
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Reading [*A Most Beautiful Thing*](https://www.amostbeautifulthing.com/book/) by Arshay Cooper as parth of Steph Curry's book club, [Underrated](https://www.washingtonpost.com/entertainment/books/steph-curry-book-club/2020/10/17/973873c0-0dac-11eb-b1e8-16b59b92b36d_story.html).
 
-## Header Level 2
+Watching the Hawaii International Film Festival [(HIFF)](https://hiff.org/).
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Navigating IVF with my wife, Bianca, who writes about our journey on her [blog](https://ifmypunanicouldtalk.com/).
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
-
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+<sub>Last Updated: Nov 28, 2020</sub>
