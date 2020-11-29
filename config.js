@@ -3,47 +3,44 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'John Datiles',
+  subtitle: 'Husband and Project Engineer',
+  copyright: '',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-47172720-1',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Me & Now',
+      path: '/me'
+    },
+    {
+      label: 'All Posts',
       path: '/'
     },
-    {
-      label: 'About me',
-      path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'John Datiles',
+    photo: '/johndatiles.png',
+    bio: 'Husband and Project Engineer. Thoughts on IVF, books I\'m reading, and project management.',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'johndatiles',
+      github: 'johndatiles',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'johndatiles',
+      instagram: 'johndatiles',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'johndatiles',
       soundcloud: '',
+      spotify: '12172106703',
     }
   }
 };

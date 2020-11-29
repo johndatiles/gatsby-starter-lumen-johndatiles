@@ -40,11 +40,14 @@ const getContactHref = (name: string, contact: string) => {
       href = `https://www.codepen.io/${contact}`;
       break;
     case 'youtube':
-      href = `https://www.youtube.com/channel/${contact}`;
+      href = `https://www.youtube.com/${contact}`;
       break;
     case 'soundcloud':
       href = `https://soundcloud.com/${contact}`;
       break;
+    case 'spotify':
+        href = `https://open.spotify.com/user/${contact}`;
+        break;
     default:
       href = contact;
       break;
