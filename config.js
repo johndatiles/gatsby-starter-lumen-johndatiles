@@ -12,11 +12,11 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Me & Now',
+      label: '🌱 Me & Now',
       path: '/me'
     },
     {
-      label: 'All Posts',
+      label: '✍🏾 All Posts',
       path: '/'
     },
   ],
