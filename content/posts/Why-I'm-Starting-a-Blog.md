@@ -1,6 +1,6 @@
 ---
 title: "Why I'm Starting a Blog"
-date: "2020-12-4"
+date: "2020-12-04"
 template: "post"
 draft: false
 slug: "why-im-starting-a-blog"
