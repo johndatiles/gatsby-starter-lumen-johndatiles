@@ -66,7 +66,7 @@ Topics include IVF, books I’ve read, engineering, project management strategie
 It’s a way to connect and hopefully provide value to others from my small corner of the internet.
 
 ## 7. Document My Life
-This blog documents my life. It’s part of all the photos I take, videos I record, and journaling I write. Which all tell my story.
+This blog documents my life. It’s part of all the photos I take, videos I record, and journaling I write. All which tell my story.
 
 We all document our lives. It’s a way to remember.
 
