@@ -17,7 +17,7 @@ Think of the ways you write. You probably do at least one of the following every
 
 After pressing send I often ask myself, *did that make sense?* Or think, *that was too wordy*. My email needs to be clear to do my job effectively. Writing emails every day helps me improve.
 
-But I don't get much practice with personal writing. I journal, but the only reader for that is future me. Often it’s an unstructured vomit of words.
+But I don't get much practice with personal writing. I journal, but the only reader for that is me. Often it’s an unstructured vomit of words.
 
 Writing on a blog forces me to organize my thoughts. Readers need to understand my overall message. (And if I’m being honest, my wife will probably be the only one reading this. With a sprinkle of family and friends.)
 
@@ -52,7 +52,7 @@ Writing on Medium is popular. I’ll probably even repost my writing there for t
 Having this blog means I own it.
 
 ## 5. Step Outside My Comfort Zone
-I’ll be honest. Writing this to post publicly is uncomfortable. Most things you do for the first time are. First job interview. First time riding a motorcycle. First time moving across the country.
+Writing this to post publicly is uncomfortable. Most things you do for the first time are. First job interview. First time riding a motorcycle. First time moving across the country.
 
 The beginning is hard. It’s also the start of a fuller life.
 
@@ -78,4 +78,4 @@ Hello future me. What do you think so far?
 
 ### Thanks for Reading
 
-These were my 7 reasons for starting a blog, but the inspiration came from my wife, Bianca. She writes on her own blog about our IVF journey. Read it at [ifmypunanicouldtalk.com](https://ifmypunanicouldtalk.com/).
+These were my 7 reasons for starting a blog. Inspiration came from my wife, Bianca, who writes about our IVF journey on a blog of her own. Read it at [ifmypunanicouldtalk.com](https://ifmypunanicouldtalk.com/).
