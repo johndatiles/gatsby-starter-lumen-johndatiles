@@ -6,7 +6,7 @@ socialImage: ""
 ### About Me
 I was raised in the Bay Area, graduated from UC Davis, then worked 7 years for Caltrans. 
 
-I then met, married, and followed a Maui girl to Hawaii. 
+During that time, I met, married, and followed a Maui girl to Oahu. 
 
 I'm a licensed Professional Engineer (PE), registered in both California and Hawaii.
 

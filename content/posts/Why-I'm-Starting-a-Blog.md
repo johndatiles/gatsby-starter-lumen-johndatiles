@@ -19,7 +19,7 @@ After pressing send I often ask myself, *did that make sense?* Or think, *that w
 
 But I don't get much practice with personal writing. I journal, but the only reader for that is me. Often it’s an unstructured vomit of words.
 
-Writing on a blog forces me to organize my thoughts. Readers need to understand my overall message. (And if I’m being honest, my wife will probably be the only one reading this. With a sprinkle of family and friends.)
+Writing on a blog forces me to organize my thoughts. Readers need to understand my overall message. (If I’m being honest, my wife will probably be the only one reading this. With a sprinkle of family and friends.)
 
 The main reason for starting this blog is to improve my writing—by practicing, then practicing, and practicing some more.
 
@@ -35,7 +35,7 @@ I consume a lot of content on the internet. I also want to create. Starting a bl
 
 ## 3. Learn to Code
 
-When I was younger, my brother and I would make websites for fun. We loved exploring the funky digital spaces of the internet’s early days, full of neon colors, visitor counters, and spinning text. It inspired us to create our own. Reminiscing on that reminded me of how fun it was.
+When I was younger, my brother and I would make websites for fun. We loved exploring the funky digital spaces of the internet’s early days, full of neon colors, visitor counters, and spinning text. It inspired us to create our own. Reminiscing on that reminded me of how *fun* it was.
 
 There are services out there that create websites for you, but I enjoy understanding the code behind the website.
 
