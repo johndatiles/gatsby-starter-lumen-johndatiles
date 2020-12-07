@@ -4,6 +4,7 @@ template: "page"
 socialImage: ""
 ---
 ### About Me
+
 I was raised in the Bay Area, graduated from UC Davis, then worked 7 years for Caltrans. 
 
 I then met, married, and followed a Maui girl to Hawaii. 
@@ -22,3 +23,7 @@ Reading [*Mastering the Craft of Writing*](https://www.goodreads.com/book/show/2
 Navigating IVF with my wife, Bianca, who writes about our journey on her [blog](https://ifmypunanicouldtalk.com/).
 
 <sup>Last Updated: Dec 6, 2020</sup>
+
+### Newsletter
+Every other Aloha Friday I email a newsletter with my thoughts on books I'm reading, Hawaii, and project management. I'd love for you to join.
+<iframe src="https://johndatiles.substack.com/embed" height="100" style="text-align:center;" frameborder="0" scrolling="no"></iframe>

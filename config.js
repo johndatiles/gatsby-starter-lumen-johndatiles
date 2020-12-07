@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'John Datiles',
     photo: '/johndatiles.png',
-    bio: 'Husband and Project Engineer. Thoughts on IVF, books I\'m reading, and project management.',
+    bio: 'Husband and Project Engineer. Thoughts on books I\'m reading, project management, and Hawaii.',
     contacts: {
       email: '',
       facebook: '',

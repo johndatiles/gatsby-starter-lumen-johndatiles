@@ -61,7 +61,7 @@ Uncomfortable situations help you grow. It’s healthy to step outside your comf
 ## 6. Share Ideas
 With a blog I can write about ideas and thoughts I think are worth sharing.
 
-Topics include IVF, books I’ve read, engineering, project management strategies I use at work, life in Hawaii, coding, productivity, and the list goes on.
+Topics include books I’ve read, project management strategies I use at work, Hawaii, coding, productivity, and the list goes on.
 
 It’s a way to connect and hopefully provide value to others from my small corner of the internet.
 
