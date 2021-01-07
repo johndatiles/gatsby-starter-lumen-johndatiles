@@ -1,5 +1,5 @@
 ---
-title: "The Other Wes Moore"
+title: "The Other Wes Moore by Wes Moore"
 date: "2021-1-07"
 template: "post"
 draft: false
@@ -8,7 +8,7 @@ category: "Book Notes"
 tags:
   - "Book Notes"
 description: "Book notes on The Other Wes Moore by Wes Moore. Two stories of two men with the same name. Both from Baltimore, both with difficult childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?"
-socialImage: "/media/the-other-wes-moore.jpg"
+socialImage: "/media/twitterCard/the-other-wes-moore.jpg"
 ---
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/91P7RaEuLmL.jpg" alt="The Other Wes Moore" width="250" />
