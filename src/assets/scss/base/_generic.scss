@@ -125,9 +125,24 @@ p {
 }
 
 blockquote {
-  padding: 0;
+  padding: 0.5em 10px;
+  margin: 1.5em 10px;
   font-style: italic;
-  text-align: center;
+  text-align: left;
+  border-left: 2px solid gray;
+  background-color: 000;
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
 
 figure {

@@ -15,7 +15,7 @@ This website is a way for me to practice writing, learn code, share ideas, and d
 Feel free to reach out to me [@johndatiles](https://twitter.com/johndatiles) on Twitter.
 
 ### What I'm Doing Now
-Managing design projects for construction in Hawaii for the Department of Land and Natural Resources ([DLNR](https://dlnr.hawaii.gov/)).
+Managing design projects for construction in Hawaii for the Department of Land and Natural Resources ([DLNR](https://dlnr.hawaii.gov/)). Most recently completed the [Royal Hawaiian Groin replacement](https://www.staradvertiser.com/2020/09/02/hawaii-news/new-royal-hawaiian-groin-is-first-of-several-planned-for-waikiki/) in Waikiki.
 
 Learning to code with JavaScript and [Gatsby.js](https://www.gatsbyjs.com/docs/gatsby-core-philosophy/) to rebuild this website and restart my blog. This site currently uses the Gatsby Lumen Starter that I slightly customized.
 
