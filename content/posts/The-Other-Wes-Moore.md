@@ -7,7 +7,7 @@ slug: "the-other-wes-moore"
 category: "Book Notes"
 tags:
   - "Book Notes"
-description: "Book notes on The Other Wes Moore by Wes Moore. Two stories of two men with the same name. Both from Baltimore, both with difficult childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?"
+description: "Book notes on The Other Wes Moore. Two stories of two men with the same name. Both from Baltimore, both with tough childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?"
 socialImage: "/media/twitterCard/the-other-wes-moore.jpg"
 ---
 
@@ -15,33 +15,33 @@ socialImage: "/media/twitterCard/the-other-wes-moore.jpg"
 
 >"When did you feel like you'd become a man?" Wes asked me, a troubled look on his face. ... When did I actually become a man? There was no official ceremony that brought my childhood to an end. Instead, crises or other circumstances presented me with adult-sized responsibilities and obligations that I had to meet one way or another. (Page 66)
 
-This was the first book I read for Steph Curry's book club, [Underrated](https://twitter.com/stephencurry30/status/1296168620192538624?lang=en). This one back in October. I enjoyed some excellent discussions with other readers. Steph's insights were also great.
+This was the first book I read for Steph Curry's book club, [Underrated](https://twitter.com/stephencurry30/status/1296168620192538624?lang=en). Had some thought-provoking discussions with other readers. Steph's questions and insights were also great.
 
 To retain more of what I read, I'm trying something new here with book notes.
 
-Usually, I highlight a bunch of what I'm reading. But it's rare that I go back and read those highlights. And even when I do, each highlight feels disconnected from an overall thought. So I'm writing these notes to structure those thoughts and reflections of what I've read. 
+Usually, I highlight a bunch of what I'm reading. But it's rare that I go back and read those highlights. And even when I do, each highlight feels disconnected from an overall takeaway I had for that particular book. So I'm writing these notes to structure those thoughts and reflections. 
 
 Also helps when people ask what I'm reading or books I recommend.
 
 Here are my notes on The Other Wes Moore. Goodreads link [here](https://www.goodreads.com/book/show/7099273-the-other-wes-moore).
 
 ## A Short Summary
-Two stories of two men both named Wes Moore. Both from Baltimore, both with difficult childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?
+Two stories of two men both named Wes Moore. Both from Baltimore, both with tough childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?
 
 ## Impressions
-Throughout the book, I questioned the role of nature versus nurture. How did the environment these two men live in shape their destiny? How did those who nurtured them guide them on the paths they would take? The stories of both Wes Moore's provokes these questions and more.
+Throughout the book, I questioned the role of nature versus nurture. How did the environment these two men live in shape their future? How did those who nurtured them guide them on the paths they would take? The stories of both Wes Moore's provokes these questions and more.
 
 ## Who Should Read It?
-Recommended to anyone who wants insight into young black men's lives; how their environment and those around them shape them. The book may leave you with more questions than answers.
+Recommended to anyone who wants insight into young black men's lives; how their environment and those around them shape them. But the story may leave you with more questions than answers.
 
 >From this first moment on a Bronx court, I could tell there was something special about it. The basketball court is a strange patch of neutral ground, a meeting place for every element of a neighborhood's cohort of young men. ... We were all enclosed by the same fence, bumping into one another, fighting, celebrating. Showing one another our best and worst, revealing ourselves-even our cruelty and crimes-as if that fence had created a circle of trust. A brotherhood. (Page 44)
 
 ## Reflections
-One's environment is important. I reflected on my own path to adulthood while reading this book. I'm where I am because of the people around me. I had good teachers and my parents raised me well.  
+One's environment is important to how we grow. I reflected on my own path to adulthood while reading this book. I am where I am because of the people around me. I had good teachers and my parents strived to raise me well.  
 
-I also thought of mentors outside of childhood and into my 20's. Those mentors often were peers or, like my brother -- younger than me. It reminded me that while we each have a personal responsibility for our own lives, we are shaped by the people around us. Our successes can be linked to another's acts, from food on the dinner plate, to words of encouragement -- our success is the success of others.
+I also thought of mentors outside of childhood and into my 20's. Those mentors often were peers or, like my brother -- younger than me. It reminded me that while we each have a personal responsibility for our own lives, we are shaped by the people around us. Our successes can be linked to another's acts, from after school tutoring, to words of encouragement -- our success is the success of others.
 
-I also feel that in shaping one's path, nurture has a far greater impact than nature. Those around you can help push you to succeed, help you ignore the negative influences around you, and act as a lighthouse to show you a path to success.
+I feel that in the path of life, nurture has a far greater impact than nature. Those around you can help push you to succeed, help you ignore the negative influences around you, and act as a lighthouse to show you a path to success.
 
 >What changed was that I found myself surrounded by people-starting with my mom, grandparents, uncles, and aunts, and leading to a string of wonderful role models and mentors-who kept pushing me to see more than what was directly in front of me, to see the boundless possibilities of the wider world and the unexplored possibilities within myself. People who taught me that no accident of birth-not being black or relatively poor, being from Baltimore or the Bronx or fatherless-would ever define or limit me. In other words, they helped me to discover what it means to be free. . (Page 179)
 
@@ -57,8 +57,8 @@ I also feel that in shaping one's path, nurture has a far greater impact than na
 
 #### Chapter 2 - In Search of Home, 1984
 - Contrasting stories of their time playing childhood sports and massive differences.
-- Other Wes while playing football, and his brother's guidance to never let anyone disrespect him, resulted in him being overly aggressive playing ball, which let to a fight, which escalated in Other Wes running home to grab a knife, which got him arrested.
-- Wes, on the other hand, despite the dire drug situation in his neighborhood, found a communal and neutral ground on the basketball court where all young men, no matter their background, played ball.
+    - Other Wes while playing football, and his brother's guidance to never let anyone disrespect him, resulted in him being overly aggressive playing ball, which let to a fight, which escalated in Other Wes running home to grab a knife, which got him arrested.
+    - Wes, on the other hand, despite the dire drug situation in his neighborhood, found a communal and neutral ground on the basketball court where all young men, no matter their background, played ball.
 - Thoughts of nature vs nurture. Other Wes' upbringing by his older brother Tony, was the wrong advice, and led him down the wrong path.
 
 #### Chapter 3 - Foreign Ground, 1987
@@ -75,7 +75,7 @@ I also feel that in shaping one's path, nurture has a far greater impact than na
 #### Chapter 5 - Lost, 1991
 - Wes at military school. Tried to escape but sgt gave him fake directions. Plebes refer to them in the third person. Lots of money from family, even friends, went into sending Wes to military school. Wes describes his admiration for Captain Hill.
 - Other Wes finds out he’s going to be a father. Later on, shoots another kid and gets arrested. He was angry that the kid beat him up. Earlier, he meets his father, and author remarks that “his nonexistent relationship with his father probably contributed to his seeming indifference about becoming a father himself.” Pg. 101
-- But there are kids all over that grow up without father’s, perhaps it was his negative relationship with his father, rather than a lack of a relationship that contributed to him not wanting to be a father himself. Case in point - Wes didn’t have a father either, however did go to military school and perhaps had father figures there.
+    - But there are kids all over that grow up without father’s, perhaps it was his negative relationship with his father, rather than a lack of a relationship that contributed to him not wanting to be a father himself. Case in point - Wes didn’t have a father either, however did go to military school and perhaps had father figures there.
 
 #### Chapter 6 - Hunted, 1994
 - Other Wes gets arrested for a small drug deal despite seeing red flags that indicated the guy was a cop (or working for the cops).
