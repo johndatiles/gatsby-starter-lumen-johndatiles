@@ -7,7 +7,7 @@ slug: "the-other-wes-moore"
 category: "Book Notes"
 tags:
   - "Book Notes"
-description: "Book notes on The Other Wes Moore. Two stories of two men with the same name. Both from Baltimore, both with tough childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?"
+description: "Book notes on The Other Wes Moore. Two stories of two kids with the same name. Both from Baltimore, both with tough childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?"
 socialImage: "/media/twitterCard/the-other-wes-moore.jpg"
 ---
 
@@ -15,35 +15,37 @@ socialImage: "/media/twitterCard/the-other-wes-moore.jpg"
 
 >"When did you feel like you'd become a man?" Wes asked me, a troubled look on his face. ... When did I actually become a man? There was no official ceremony that brought my childhood to an end. Instead, crises or other circumstances presented me with adult-sized responsibilities and obligations that I had to meet one way or another. (Page 66)
 
-This was the first book I read for Steph Curry's book club, [Underrated](https://twitter.com/stephencurry30/status/1296168620192538624?lang=en). Had some thought-provoking discussions with other readers. Steph's questions and insights were also great.
+This was the first book I read for Steph Curry's book club, [Underrated](https://twitter.com/stephencurry30/status/1296168620192538624?lang=en). I enjoyed thought-provoking discussions with other readers. Steph's questions and insights were also great.
 
-To retain more of what I read, I'm trying something new here with book notes.
+To retain more of what I read, I'm trying something new here: book notes.
 
 Usually, I highlight a bunch of what I'm reading. But it's rare that I go back and read those highlights. And even when I do, each highlight feels disconnected from an overall takeaway I had for that particular book. So I'm writing these notes to structure those thoughts and reflections. 
 
-Also helps when people ask what I'm reading or books I recommend.
+I imagine these will also help when people ask what I'm reading or books I recommend.
 
-Here are my notes on The Other Wes Moore. Goodreads link [here](https://www.goodreads.com/book/show/7099273-the-other-wes-moore).
+Here are my notes on The Other Wes Moore (spoiler-free until the 'Summary and Notes' section). More book info on the book's Goodreads [page](https://www.goodreads.com/book/show/7099273-the-other-wes-moore).
 
 ## A Short Summary
-Two stories of two men both named Wes Moore. Both from Baltimore, both with tough childhoods. One ends up successful, the other ends up in prison. What was the difference, and where did their paths diverge?
+Two stories of two kids both named Wes Moore. Both born within a year of each other. Both from Baltimore, both with tough childhoods. One ends up successful, while the other ends up in prison. The author shares stories from interviews with the other Wes Moore, contrasting those with his own.
 
 ## Impressions
-Throughout the book, I questioned the role of nature versus nurture. How did the environment these two men live in shape their future? How did those who nurtured them guide them on the paths they would take? The stories of both Wes Moore's provokes these questions and more.
+Throughout the book, I had so many questions. How did the environment these two kids live in shape their future? How did those who nurtured them guide them on the paths they would take? What was the difference, and where did their paths diverge?
 
 ## Who Should Read It?
-Recommended to anyone who wants insight into young black men's lives; how their environment and those around them shape them. But the story may leave you with more questions than answers.
+Recommended to anyone who wants insight into the lives of black youth; how their environment can be an obstacle and how those around them can set them up for success. 
 
->From this first moment on a Bronx court, I could tell there was something special about it. The basketball court is a strange patch of neutral ground, a meeting place for every element of a neighborhood's cohort of young men. ... We were all enclosed by the same fence, bumping into one another, fighting, celebrating. Showing one another our best and worst, revealing ourselves-even our cruelty and crimes-as if that fence had created a circle of trust. A brotherhood. (Page 44)
+>The basketball court is a strange patch of neutral ground, a meeting place for every element of a neighborhood's cohort of young men. ... We were all enclosed by the same fence, bumping into one another, fighting, celebrating. Showing one another our best and worst, revealing ourselves-even our cruelty and crimes-as if that fence had created a circle of trust. A brotherhood. (Page 44)
 
 ## Reflections
-One's environment is important to how we grow. I reflected on my own path to adulthood while reading this book. I am where I am because of the people around me. I had good teachers and my parents strived to raise me well.  
+A child's environment impacts who they grow into. The author was surrounded by drugs and vandalism -- he could have went down that path. But he had positive adult figures that overcame the negativity and set him on a path to success. Even more impactful to a child's growth are the people that raise them.
 
-I also thought of mentors outside of childhood and into my 20's. Those mentors often were peers or, like my brother -- younger than me. It reminded me that while we each have a personal responsibility for our own lives, we are shaped by the people around us. Our successes can be linked to another's acts, from after school tutoring, to words of encouragement -- our success is the success of others.
+While reading the story of both Wes Moore's, I reflected on my own childhood. I had good teachers and my parents strived to raise me well.
 
-I feel that in the path of life, nurture has a far greater impact than nature. Those around you can help push you to succeed, help you ignore the negative influences around you, and act as a lighthouse to show you a path to success.
+I also thought of mentors into my 20's. Those mentors were often peers or, like my brother -- younger than me. This story reminded me that while we each have a personal responsibility for our own lives, we are shaped by the people around us. Our successes can be linked to another's acts, from after school tutoring, to words of encouragement -- our success is the success of others.
 
->What changed was that I found myself surrounded by people-starting with my mom, grandparents, uncles, and aunts, and leading to a string of wonderful role models and mentors-who kept pushing me to see more than what was directly in front of me, to see the boundless possibilities of the wider world and the unexplored possibilities within myself. People who taught me that no accident of birth-not being black or relatively poor, being from Baltimore or the Bronx or fatherless-would ever define or limit me. In other words, they helped me to discover what it means to be free. . (Page 179)
+In a child's journey to adulthood, individuals have a far greater impact than environment. Those around you can help push you to succeed, help you ignore the negative influences around you, and act as a lighthouse to show you a path to success.
+
+>What changed was that I found myself surrounded by people -- starting with my mom, grandparents, uncles, and aunts, and leading to a string of wonderful role models and mentors -- who kept pushing me to see more than what was directly in front of me, to see the boundless possibilities of the wider world and the unexplored possibilities within myself. People who taught me that no accident of birth -- not being black or relatively poor, being from Baltimore or the Bronx or fatherless -- would ever define or limit me. In other words, they helped me to discover what it means to be free. (Page 179)
 
 ## Summary and Notes
 ### **<span style = "color: #ff8c00;"> Spoilers below. Please skip if you plan on reading the book.</span>**
