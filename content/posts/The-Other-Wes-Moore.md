@@ -1,6 +1,6 @@
 ---
 title: "The Other Wes Moore by Wes Moore"
-date: "2021-1-07"
+date: "2021-01-07"
 template: "post"
 draft: false
 slug: "the-other-wes-moore"
