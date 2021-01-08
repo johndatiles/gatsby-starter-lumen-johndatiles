@@ -23,4 +23,4 @@ Reading [*Mastering the Craft of Writing*](https://www.goodreads.com/book/show/2
 
 Navigating IVF with my wife, Bianca, who writes about our journey on her [blog](https://ifmypunanicouldtalk.com/).
 
-<sup>Last Updated: Dec 6, 2020</sup>
+<sup>Last Updated: Jan 7, 2021</sup>
