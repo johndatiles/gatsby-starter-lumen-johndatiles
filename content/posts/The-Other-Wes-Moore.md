@@ -23,7 +23,7 @@ Usually, I highlight a bunch of what I'm reading. But it's rare that I go back a
 
 I imagine these will also help when people ask what I'm reading or books I recommend.
 
-Here are my notes on The Other Wes Moore (spoiler-free until the 'Summary and Notes' section). More book info on the book's Goodreads [page](https://www.goodreads.com/book/show/7099273-the-other-wes-moore).
+Here are my notes on The Other Wes Moore (spoiler-free until the 'Summary and Notes' section). More book info on its Goodreads [page](https://www.goodreads.com/book/show/7099273-the-other-wes-moore).
 
 ## A Short Summary
 Two stories of two kids both named Wes Moore. Both born within a year of each other. Both from Baltimore, both with tough childhoods. One ends up successful, while the other ends up in prison. The author shares stories from interviews with the other Wes Moore, contrasting those with his own.
