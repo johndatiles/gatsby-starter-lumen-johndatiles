@@ -6,7 +6,7 @@ socialImage: ""
 ### About Me
 I was raised in the Bay Area, graduated from UC Davis with a degree in Civil Engineering, then worked 7 years for Caltrans. 
 
-During that time, I met, married, and followed a Maui girl to Oahu. I've since found meaning work as a Civil Engineer for the Hawaii Department of Land and Natural Resources ([DLNR](https://dlnr.hawaii.gov/)).
+During that time, I met, married, and followed a Maui girl to Oahu. I've since found meaningful work as a Civil Engineer for the Hawaii Department of Land and Natural Resources ([DLNR](https://dlnr.hawaii.gov/)).
 
 I'm a licensed Professional Engineer (PE), registered in both California and Hawaii.
 
