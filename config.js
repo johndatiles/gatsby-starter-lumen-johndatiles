@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Husband and Project Engineer',
   copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: 'UA-47172720-1',
   useKatex: false,
   menu: [
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'John Datiles',
     photo: '/johndatiles.png',
-    bio: 'Husband and Project Engineer. Thoughts on project management, books I\'m reading, and Hawaii.',
+    bio: 'Husband and Civil Engineer. Thoughts on becoming a new father, books I\'m reading, and Hawaii.',
     contacts: {
       email: '',
       facebook: '',
