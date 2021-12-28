@@ -15,12 +15,10 @@ This website is a way for me to practice writing, learn code, share ideas, and d
 Feel free to reach out to me [@johndatiles](https://twitter.com/johndatiles) on Twitter.
 
 ### What I'm Doing Now
-[Nesting](https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/nesting-during-pregnancy-5364/) with my wife, Bianca.
+Acclimating to my new role as a parent with my wife, Bianca.
 
-Managing design projects for construction in Hawaii for the DLNR. My most recently completed project was [Waikiki Beach Maintenance 2](https://vimeo.com/519295137), where 20,000 cubic yards of sand was pumped from off-shore to renourish the beach.
+Getting back to a writing habit.
 
-Learning to code with JavaScript and [Gatsby.js](https://www.gatsbyjs.com/docs/gatsby-core-philosophy/) to rebuild this website and restart my blog. This site currently uses the Gatsby Lumen Starter that I slightly customized.
+Reading [*Exhalation*](https://www.goodreads.com/en/book/show/41160292-exhalation) by Ted Chiang.
 
-Reading [*Like A Mother*](https://www.goodreads.com/book/show/35068708-like-a-mother) by Angela Garbes. Intimate thoughts and questions of the science and culture surrounding pregnancy from a first-time mother.
-
-<sup>Last Updated: Jun 17, 2021</sup>
+<sup>Last Updated: Dec 27, 2021</sup>
