@@ -15,7 +15,7 @@ This website is a way for me to practice writing, learn code, share ideas, and d
 Feel free to reach out to me [@johndatiles](https://twitter.com/johndatiles) on Twitter.
 
 ### What I'm Doing Now
-Acclimating to my new role as a parent with my wife, Bianca.
+Acclimating to my new role as a parent with my wife Bianca.
 
 Getting back to a writing habit.
 
