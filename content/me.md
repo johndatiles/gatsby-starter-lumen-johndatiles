@@ -17,7 +17,7 @@ Feel free to reach out to me [@johndatiles](https://twitter.com/johndatiles) on 
 ### What I'm Doing Now
 Acclimating to my new role as a parent with my wife Bianca.
 
-Getting back to a writing habit.
+Getting back into a writing habit.
 
 Reading [*Exhalation*](https://www.goodreads.com/en/book/show/41160292-exhalation) by Ted Chiang.
 
