@@ -3,16 +3,16 @@ title: "Dormant Thoughts"
 date: "2021-12-27"
 template: "post"
 draft: false
-slug: "unpublished"
+slug: "dormant-thoughts"
 category: "Writing"
 tags:
- -"Writing"
-description: "I'm looking at the date of my last post - January 2021. Quite a long time ago. With other priorities, this site fell by the wayside."
+ - "Writing"
+description: "I'm looking at the date of my last post - January 2021. Quite a long time ago. With other priorities, this site fell by the wayside. Bianca gave birth to our first child earlier this year and our lives changed forever."
 socialImage: ""
 ---
 I'm looking at the date of my last post - January 2021.
 
-Quite a long time ago. With other priorities, this site fell by the wayside. Bianca gave birth to our first child earlier this year and our lives changed. Parenting is as difficult as it is rewarding, and I wouldn't want it any other way. Our days and nights are filled with so much love. 
+Quite a long time ago. With other priorities, this site fell by the wayside. Bianca gave birth to our first child earlier this year and our lives changed forever. Parenting is as difficult as it is rewarding, and I wouldn't want it any other way. Our days and nights are filled with so much love. 
 
 As I acclimate to this role as a new dad, I'm finding time for my other interests again - writing being one of them.
 
