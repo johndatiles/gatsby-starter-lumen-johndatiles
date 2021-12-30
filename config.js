@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://johndatiles.com',
   pathPrefix: '/',
   title: 'John Datiles',
-  subtitle: 'Husband and Project Engineer',
+  subtitle: 'New dad, husband, civil engineer',
   copyright: '',
   disqusShortname: '',
   postsPerPage: 8,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'John Datiles',
     photo: '/johndatiles.png',
-    bio: 'New dad, husband, civil engineer. Thoughts on becoming a new father, books I\'m reading, and Hawaii.',
+    bio: 'New dad, husband, civil engineer. Thoughts on fatherhood, books I\'m reading, and life in Hawaii.',
     contacts: {
       email: '',
       facebook: '',
