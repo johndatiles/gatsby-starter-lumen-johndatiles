@@ -7,7 +7,7 @@ slug: "Resolutions"
 category: "Fatherhood"
 tags:
  - "Fatherhood"
-description: "In past years when I've set resolutions and goals, I'd make detailed plans and structure my days intentionally. Being a new father changes things."
+description: "In past years when I've set resolutions and goals, I'd make detailed plans and structure my days very specifically. Being a new father changes things."
 socialImage: ""
 ---
 
