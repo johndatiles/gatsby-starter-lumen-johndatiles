@@ -1,6 +1,6 @@
 ---
 title: "Resolutions"
-date: "2021-01-14"
+date: "2022-01-14"
 template: "post"
 draft: false
 slug: "Resolutions"
@@ -17,7 +17,7 @@ Being a new father changes things. My priority is to help with the caretaking re
 
 So I'm aiming to keep things simple: open a book, write a few sentences, get outside, sit at the piano. If these lead to longer sessions, great. If not, still great. I made an effort to commit to the habit. No strict goals like reading X amount of books this year or rigid routines like writing for 30 minutes at 6am each day.
 
-I'm reminded of a couple habit-building techniques from the book [Atomic Habits by James Clear] (https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292). Highly recommended.
+I'm reminded of a couple habit-building techniques from the book [Atomic Habits by James Clear](https://bookshop.org/books/atomic-habits-an-easy-proven-way-to-build-good-habits-break-bad-ones/9780735211292). Highly recommended.
 
 - Build identity-based habits: the goal is not necessarily to write a book but to become a person who writes every day.
 - The Two-Minute Rule: starting a habit should take less than two minutes to do. In my case, I can open a book each day and read for two minutes (likely leading to longer sessions).
