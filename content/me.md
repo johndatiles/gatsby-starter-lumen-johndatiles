@@ -10,13 +10,15 @@ During that time, I met, married, and followed a Maui girl to Oahu. After the bi
 
 I'm a licensed Professional Engineer (PE), registered in both California and Hawaii.
 
-This website is a way for me to practice writing, learn code, share ideas, and document my life. More on that in my first blog post [here](posts/why-im-starting-a-blog).
+This website is a way for me to practice writing, learn code, and share ideas.
 
 Feel free to reach out to me [@johndatiles](https://twitter.com/johndatiles) on Twitter.
 
 ### What I'm Doing Now
-Enjoying family life with my wife and baby.
+Enjoying family life.
 
 Getting back into a writing habit.
 
-<sup>Last Updated: March 20, 2022</sup>
+Reading [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI) by Viktor E. Frankl.
+
+<sup>Last Updated: July 24, 2022</sup>
