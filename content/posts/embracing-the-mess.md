@@ -21,6 +21,6 @@ The best examples I can think of involve our travels. When things wouldn't go as
 
 Things changed again when we had our son. 
 
-Having a child is messy. Food gets on their clothes or thrown on the floor. Toys are often scattered on the floor. All are signs of a child growing and learning. 
+Having a child is messy. Food gets on their clothes or thrown on the floor. Toys are often scattered around the house. All are signs of a child growing and learning. 
 
 These two have taught me so much. That some of the best things in life are messy.
