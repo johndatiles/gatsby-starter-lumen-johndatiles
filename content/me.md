@@ -15,10 +15,10 @@ This website is a way for me to practice writing, learn code, and share ideas.
 Feel free to reach out to me [@johndatiles](https://twitter.com/johndatiles) on Twitter.
 
 ### What I'm Doing Now
-Enjoying family life.
+Embracing the mess.
 
 Getting back into a writing habit.
 
-Reading [Man's Search for Meaning](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl-ebook/dp/B009U9S6FI) by Viktor E. Frankl.
+Reading [Never Let Me Go](https://www.amazon.com/Never-Let-Me-Kazuo-Ishiguro/dp/1400078776) by Kazuo Ishiguro.
 
-<sup>Last Updated: July 24, 2022</sup>
+<sup>Last Updated: January 7, 2023</sup>
